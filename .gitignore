@@ -1,0 +1,11 @@
+.idea
+.log
+./venv
+venv/Include/
+venv/
+venv_dev/
+/venv_dev/
+__pycache__
+*.pyc
+.idea
+*.log
